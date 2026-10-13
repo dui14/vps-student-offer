@@ -10,7 +10,7 @@ These platforms provide free resources specifically for students and **do not re
 
 | Provider | Description & Specs | Registration Requirements | Duration | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Microsoft Azure for Students](https://microsoft.com)** | • **\$100 Free Credit** to spend on Azure services.<br>• Free 1x Linux VPS + 1x Windows VPS (B1s burstable, 750 hours/month).<br>• Ideal for Docker deployments, web hosting, and database practice. | • **School Email Required** (`.edu` or `.edu.vn`).<br>• No credit card needed. | **12 Months**<br>(Renewable annually while student status is active) | ✅ **Active** |
+| **[Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/)** | • **\$100 Free Credit** to spend on Azure services.<br>• Free 1x Linux VPS + 1x Windows VPS (B1s burstable, 750 hours/month).<br>• Ideal for Docker deployments, web hosting, and database practice. | • **School Email Required** (`.edu` or `.edu.vn`).<br>• No credit card needed. | **12 Months**<br>(Renewable annually while student status is active) | ✅ **Active** |
 | **[FreeVPS.edu.pl](https://freevps.edu.pl)** | • High-performance VPS dedicated to IT students.<br>• Specs: **4 Cores CPU, 4GB RAM, 4TB Bandwidth**, with dedicated IPv4/IPv6.<br>• Perfect for hosting capstone projects, Git servers, and heavy Docker stacks. | • **School Email** (`.edu` or `.edu.vn`) OR **Personal Email** with a photo of a valid Student ID card. | **Lifetime**<br>(Requires manual 30-day renewal in the dashboard to avoid server hibernation) | ✅ **Active** |
 
 ---
@@ -21,8 +21,8 @@ These cloud providers offer perpetual free tiers available to anyone (not just s
 
 | Provider | Description & Specs | Registration Requirements | Duration | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Oracle Cloud Always Free Tier](https://oracle.com)** | • **Best value for developers.** Up to 2x AMD Compute instances OR 1x Ampere ARM instance with up to **4 Cores CPU and 24GB RAM**.<br>• Ideal for heavy Docker containers, VPNs, and lightweight AI models.<br>• Includes \$300 trial credit for the first 30 days. | • **Personal Email** (Gmail, Outlook, etc.).<br>• **Strict Verification:** Requires a valid physical Credit/Debit Card. | **Permanently Free** | ✅ **Active**<br>(New account approvals are strictly monitored) |
-| **[Google Cloud Platform (GCP)](https://google.com)** | • Free **1x e2-micro instance** (0.25 vCPU, 1GB RAM) located in US regions.<br>• Good for ultra-lightweight Docker microservices or static sites.<br>• Includes \$300 trial credit for the first 90 days. | • **Personal Email** (Google Account).<br>• Requires a Credit/Debit Card for identity verification. | **Permanently Free** | ✅ **Active** |
+| **[Oracle Cloud Always Free Tier](https://www.oracle.com/asean/cloud/free/)** | • **Best value for developers.** Up to 2x AMD Compute instances OR 1x Ampere ARM instance with up to **4 Cores CPU and 24GB RAM**.<br>• Ideal for heavy Docker containers, VPNs, and lightweight AI models.<br>• Includes \$300 trial credit for the first 30 days. | • **Personal Email** (Gmail, Outlook, etc.).<br>• **Strict Verification:** Requires a valid physical Credit/Debit Card. | **Permanently Free** | ✅ **Active**<br>(New account approvals are strictly monitored) |
+| **[Google Cloud Platform (GCP)](https://cloud.google.com/edu/students)** | • Free **1x e2-micro instance** (0.25 vCPU, 1GB RAM) located in US regions.<br>• Good for ultra-lightweight Docker microservices or static sites.<br>• Includes \$300 trial credit for the first 90 days. | • **Personal Email** (Google Account).<br>• Requires a Credit/Debit Card for identity verification. | **Permanently Free** | ✅ **Active** |
 
 ---
 
@@ -30,7 +30,7 @@ These cloud providers offer perpetual free tiers available to anyone (not just s
 
 To save you time, please note that the following popular student discount has changed or ended:
 
-*   **[DigitalOcean via GitHub Student Pack](https://github.com):** The legendary **\$200 student credit offer has officially ended**. GitHub Student Pack now features alternative developer tools, cloud credits for other platforms, and services like Heroku (\$13/month for 24 months) instead.
+*   **[DigitalOcean via GitHub Student Pack](https://github.com/settings/education/benefits):** The legendary **\$200 student credit offer has officially ended**. GitHub Student Pack now features alternative developer tools, cloud credits for other platforms, and services like Heroku (\$13/month for 24 months) instead.
 
 ---
 
